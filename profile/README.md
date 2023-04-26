@@ -24,6 +24,8 @@ Mazama Science currently maintains the following R packages:
 - [AirSensor2](https://github.com/MazamaScience/AirSensor2) – Utilities for working with data from low-cost air quality sensors
 - [RAWSmet](https://github.com/MazamaScience/RAWSmet) -- Utilities for working with Remote Automatic Weather Station (RAWS) data
 
+Each package has a dedicated Slack channel for announcements, support and to help build communities of 
+practices around these shared tools. You may request an invitation to join from jonathan.callahan@dri.com.
 
 # Mazama Science Past
 
