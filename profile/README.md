@@ -20,7 +20,7 @@ Mazama Science currently maintains the following R packages:
 - [MazamaTimeSeries](https://github.com/MazamaScience/MazamaTimeSeries) – Core functionality for environmental time series data
 - [AirMonitor](https://github.com/MazamaScience/AirMonitor) – Utilities for working with air quality monitoring data
 - [AirMonitorPlots](https://github.com/MazamaScience/AirMonitorPlots) – Plotting functions for the AirMonitor package
-- [AirSensor](https://github.com/MazamaScience/AirSensor) – Utilities for working with data from PurpleAir sensors (_deprecated_)
+- ~[AirSensor](https://github.com/MazamaScience/AirSensor) – Utilities for working with data from PurpleAir sensors~ (_deprecated_)
 - [AirSensor2](https://github.com/MazamaScience/AirSensor2) – Utilities for working with data from low-cost air quality sensors
 - [RAWSmet](https://github.com/MazamaScience/RAWSmet) -- Utilities for working with Remote Automatic Weather Station (RAWS) data
 
