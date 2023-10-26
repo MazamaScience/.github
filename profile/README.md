@@ -4,12 +4,12 @@
 
 # R Packages for Environmental Time Series
 
-Over the last decade, Mazama Science has created many packages focused on environmental
+Over the last decade, Mazama Science created many packages focused on environmental
 time series. These are used operationally in data processing, analysis and visualization systems at the
 US Forest Service [AirFire Team](https://portal.airfire.org/home), in the EPA AirNow [Fire & Smoke map](https://fire.airnow.gov)
 and elsewhere.
 
-Mazama Science currently maintains the following R packages:
+Jonathan Callahan currently maintains the following R packages:
 
 - [beakr](https://github.com/MazamaScience/beakr) – A Minimalist Web Framework for R
 - [MazamaRollUtils](https://github.com/MazamaScience/MazamaRollUtils) – Fast rolling functions for R written in C++
