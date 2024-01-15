@@ -40,7 +40,7 @@ Callahan before advancing to other opportunities.
 
 _Requiescat in Pace_ Mazama Science.
 
-# Mazama SciencePresent
+# Mazama Science Present
 
 "Mazama Science" is still relevant as a recognized _brand_, synonymous with high quality, analyst focused R 
 packages as well as the creation of data pipelines and high visibility web sites in the field of air quality.
